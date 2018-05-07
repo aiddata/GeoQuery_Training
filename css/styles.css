@@ -581,7 +581,7 @@ Hero
     position: relative;
     padding: 60px 0 60px 0;
     min-height: 800px;
-    background: rgb(40, 70, 102) url('../img/hero-01.jpg') no-repeat center center;
+    background: rgb(40, 70, 102) url('http://geoquery.org/wp-content/uploads/2017/09/gef_land_forest_degradation.jpg') no-repeat center center;
     background-size: cover;
     color: #fff;
 }
@@ -658,20 +658,22 @@ Features Slider
 .features-bg {
     position: relative;
     min-height: 400px;
-    background: url('../img/features-intro-01.jpg') no-repeat center center;
+    background: url('http://geoquery.org/wp-content/uploads/2017/09/Screenshot-2017-09-26-at-10.png') no-repeat center center;
     background-size: cover;
+
 }
 .features-img {
     width: 100%;
     height: 400px;
     text-align: center;
     line-height: 400px;
+
 }
 .features-slider {
     position: relative;
-    padding: 11% 100px 10% 100px;
+    padding: 7% 100px 10% 100px;
     height: 400px;
-    background-color: #3F6184;
+    background-color: #3D9970;
 }
 .features-slider ul {
     margin: 0;
@@ -693,18 +695,21 @@ Features Slider
 }
 .features-intro-img {
     position: relative
+
 }
 .slides li h1 {
     margin: 0;
     padding: 0;
 }
 .features-slider .flickity-page-dots {
-    text-align: left;
-    margin-top: 50px;
+    text-align: center;
+    margin-top: 0px;
     position: static;
+
 }
 .features-slider .flickity-page-dots .dot {
     margin: 0 12px 0 0;
+
 }
 
 /* ==========================================================================
@@ -776,7 +781,7 @@ blockquote .logo-quote {
 Showcase
 ========================================================================== */
 .showcase {
-    background: url('../img/showcase-bg-fixed-01.jpg') no-repeat center center fixed;
+    background: url('http://geoquery.org/wp-content/uploads/2017/09/cropped-combo_background2-e1518195473827.png') no-repeat center center fixed;
     background-size: cover;
 }
 .showcase h1 {
